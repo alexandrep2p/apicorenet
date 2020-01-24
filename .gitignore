@@ -1,3 +1,6 @@
 .vscode/*
 bin/*
 obj/Debug/*
+obj/apicorenet.csproj.nuget.cache
+obj/apicorenet.csproj.nuget.dgspec.json
+obj/project.assets.json
